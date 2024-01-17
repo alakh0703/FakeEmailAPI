@@ -6,8 +6,7 @@ This is a simple backend project that provides a single endpoint to retrieve fak
 
 ### `/emails`
 
-For example, Send get request to:
-### "https://fakeemailapi.onrender.com/emails"
+
 This endpoint returns a list of fake email messages in JSON format. Each email message includes the following fields:
 
 - `id` (unique identifier)
